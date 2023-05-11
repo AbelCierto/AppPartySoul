@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppPartySoul</string>
+    <string name="joke">Jokes</string>
+    <string name="hello_blank_fragment">Blank Fragmentt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="bestTeamName">No yet best Team</string>
+    <string name="menu_teams">Teams</string>
+    <string name="home">Home</string>
+    <string name="decrease">-</string>
+    <string name="raise">+</string>
+    <string name="save">Save Changes</string>
+</resources>
